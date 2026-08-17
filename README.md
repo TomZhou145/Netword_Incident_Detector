@@ -5,7 +5,7 @@ This project is an implementation of a working Python + Scapy network incident d
 2) one or more PCAP files
 to detect common scanning activity and cleartext credential leaks.
 
-If will detect:
+Detects:
 1. **NULL scan**
 2. **FIN scan**
 3. **Xmas scan**
